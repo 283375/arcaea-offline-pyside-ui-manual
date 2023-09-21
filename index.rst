@@ -7,14 +7,7 @@ Welcome to Arcaea Offline PySide UI's documentation!
 ====================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :hidden:
+   :maxdepth: 1
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   get-started/index
